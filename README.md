@@ -1,3 +1,6 @@
+# EXP Video
+https://github.com/user-attachments/assets/97a2ac13-89e8-4e9f-a74d-2fdd9326cbec
+
 # Updated installation steps fo my PC environment
 
 ```sh
